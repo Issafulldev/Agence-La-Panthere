@@ -771,37 +771,37 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ffcbb2;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #ffcbb2;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #fee2d4!important;
+    color: #000000!important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #000000!important;
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #ffcbb2!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #fee2d4!important;
 }
 
 .icon-dark-slate-blue {
@@ -823,6 +823,16 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
+}
+
+footer {
+    background-color: #ffcbb2;
+}
+
+.footer-contrast {
+    text-align: center;
+    color: #000000;
+    font-weight: bolder;
 }
 
 @media (max-width: 1024px) {
