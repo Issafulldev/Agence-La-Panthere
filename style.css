@@ -7,11 +7,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-@font-face {
-    font-family: 'Roboto';
-    src: url();
-}
-
 a,
 button {
     transition: all .3s ease-in-out;
